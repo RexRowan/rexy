@@ -1,4 +1,5 @@
 
+
 baseurl = "/"
 title = "Rexy's Hugo Site"
 languageCode = "en-us"
@@ -94,3 +95,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [outputs]
   home = ["HTML", "RSS", "MANIFEST"]
+<<<<<<< HEAD
+=======
+
+>>>>>>> 89b9a1f3669b0c215cee10bbfc2305b0e25ea402
