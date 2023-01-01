@@ -26,7 +26,19 @@ meta:
 featured:
   url: Artemis.jpg # relative path of the image
   alt: Artemis  # alternate text for the image
-  caption: Genome browser and annotation tool that allows visualisation of sequence features, next generation data and the results of analyses within the context of the sequence, and also its six-frame translation. # image caption
+  caption: Artemis # image caption
   credit: Rexy # image credit
-  previewOnly: false # show only preview image (true/false)
+  previewOnly: true # show only preview image (true/false)
 ---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Example HTML5 Document</title>
+</head>
+<body>
+  <p>Hello everyone, this is my first post!</p>
+  <img src="Artemis.jpg" alt="Artemis">
+  <p>Genome browser and annotation tool that allows visualisation of sequence features, next generation data and the results of analyses within the context of the sequence, and also its six-frame translation.</p>
+</body>
+</html>
