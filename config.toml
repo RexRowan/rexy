@@ -1,4 +1,4 @@
-baseURL = 'https://stunning-eclair-7c2880.netlify.app'
+baseURL = '/'
 languageCode = 'en-us'
-title = 'Rexy's Hugo Site'
+title = 'Rexy Hugo Site'
 theme = "binario"
