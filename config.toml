@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 baseurl = "/"
 title = "Rexy's Hugo Site"
@@ -94,3 +95,9 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [outputs]
   home = ["HTML", "RSS", "MANIFEST"]
+=======
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Rexy Hugo Site'
+theme = "binario"
+>>>>>>> fcb9ebe1482b7da5bbc591587c3bf6c86d033060
