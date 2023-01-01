@@ -51,7 +51,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   email = "example@example.com"
   facebook = "username"
   twitter = "MeanMachineRex"
-  telegram = "Rexy/baby"
+  telegram = "MeanMachineRex"
   instagram = "/meanmachinerex"
   pinterest = "username"
   vk = "username"
@@ -63,14 +63,14 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   medium = "meanmachinerex"
 
 [Params.Share] # Entry Share block
-  facebook = true
+  facebook = false
   twitter = true
-  reddit = true
+  reddit = false
   telegram = true
-  linkedin = true
-  vk = true
-  pocket = true
-  pinterest = true
+  linkedin = false
+  vk = false
+  pocket = false
+  pinterest = false
 
 # Web App Manifest settings
 # https://www.w3.org/TR/appmanifest/
