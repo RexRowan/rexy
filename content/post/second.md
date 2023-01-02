@@ -31,6 +31,6 @@ featured:
   previewOnly: false # show only preview image (true/false)
 ---
 
-Can Life Really Be Explained By Physics? (featuring Prof. Brian Cox)
 
-![](https://www.youtube.com/watch?v=k-vm3ZWnMWk)
+
+![Can Life Really Be Explained By Physics? (featuring Prof. Brian Cox)](https://www.youtube.com/watch?v=k-vm3ZWnMWk)
