@@ -1,5 +1,5 @@
 ---
-title: "Hello"
+title: "Artemis"
 date: 2023-01-01T20:36:57Z
 draft: false
 
@@ -24,14 +24,16 @@ meta:
   - categories
   - tags
 featured:
-  url: Artemis.jpg # relative path of the image
+  url: /img/artemis.jpg # relative path of the image
   alt: Artemis  # alternate text for the image
   caption: Artemis # image caption
   credit: Rexy # image credit
   previewOnly: true # show only preview image (true/false)
 ---
 
- Hello everyone, this is my first post!
   
  Artemis is a genome browser and annotation tool that allows visualisation of sequence features, next generation data and the results of analyses within the context of the sequence, and also its six-frame translation.
+ 
 ![Artemis](https://meanmachinerex.netlify.app/img/artemis.jpg)
+
+You can view the repo on [Github](https://github.com/sanger-pathogens/Artemis)
