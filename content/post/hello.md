@@ -34,4 +34,4 @@ featured:
  Hello everyone, this is my first post!
   
  Artemis is a genome browser and annotation tool that allows visualisation of sequence features, next generation data and the results of analyses within the context of the sequence, and also its six-frame translation.
-![Artemis](https://stunning-eclair-7c2880.netlify.app/img/artemis.jpg)
+![Artemis](https://meanmachinerex.netlify.app/img/artemis.jpg)
