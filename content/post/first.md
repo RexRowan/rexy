@@ -28,12 +28,12 @@ featured:
   alt: Artemis  # alternate text for the image
   caption: Artemis # image caption
   credit: Rexy # image credit
-  previewOnly: true # show only preview image (true/false)
+  previewOnly: false # show only preview image (true/false)
 ---
 
   
  Artemis is a genome browser and annotation tool that allows visualisation of sequence features, next generation data and the results of analyses within the context of the sequence, and also its six-frame translation.
- 
+
 ![Artemis](https://meanmachinerex.netlify.app/img/artemis.jpg)
 
 You can view the repo on [Github](https://github.com/sanger-pathogens/Artemis)
