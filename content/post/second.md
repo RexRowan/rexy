@@ -32,5 +32,3 @@ featured:
 ---
 
 
-
-![Can Life Really Be Explained By Physics? (featuring Prof. Brian Cox)](https://www.youtube.com/watch?v=k-vm3ZWnMWk)
